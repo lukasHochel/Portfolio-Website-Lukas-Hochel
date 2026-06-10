@@ -35,7 +35,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 5rem;
-    background-image: url(../images/hero.jpg);
+    background-image: url(images/hero.jpg);
     background-size: cover;
     overflow: hidden;
 }
